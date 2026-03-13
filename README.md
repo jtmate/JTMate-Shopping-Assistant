@@ -1,3 +1,3 @@
 # JTMate-Shopping-Assistant
-Automatically find and apply the best coupons and cashback while you shop online.
+A smart shopping assistant for coupons, price comparison, and cashback
 1234567
